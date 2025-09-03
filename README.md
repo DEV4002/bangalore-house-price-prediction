@@ -24,7 +24,15 @@ This project predicts house prices in Bangalore using machine learning technique
 ## How to Run
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the app: `python app.py`
+3. Execute the code -> 
+
+Step 1 : Server side -> pychamp 
+
+Step 2 : open cmd then go to the project folder/server/ 
+
+Step 3 : then in that cmd, execute -> python server.py 
+
+Step 4 : execute frontend in vs code.
 
 
 ## Author
